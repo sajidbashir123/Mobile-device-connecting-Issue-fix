@@ -1,0 +1,5 @@
+MTP driver update error.
+
+This error was due to wpdmtp.inf file was missing in C:\Windows\INF path.
+
+Solution: We need to install optional feature "Media Feature Pack" On Windows 11 N: Select the Start button, then select Settings > Apps > Optional features. Select View features next to Add an optional feature, and then select the "Media Feature Pack" in the list of available optional features.
